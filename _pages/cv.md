@@ -1,17 +1,17 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV_ChunruLin.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.E. in ACM Honor Class, Zhiyuan College, Shanghai Jiao Tong university, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
