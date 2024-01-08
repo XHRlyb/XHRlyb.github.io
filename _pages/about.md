@@ -39,8 +39,8 @@ I am Chunru Lin (林春茹), a first-year Ph.D. student in [UMass Amherts](https
 
   Zhiao Huang, Feng Chen, Yewen Pu, **Chunru Lin**, Hao Su, Chuang Gan
 
-  Neurips 2023 [[Paper](https://arxiv.org/abs/2312.06408)]
-  
+  Neurips 2023 [[Project](hhttps://sites.google.com/view/diffvl/home)] [[Paper](https://arxiv.org/abs/2312.06408)] [[Code](https://github.com/Winniechen2002/DiffVL)]
+
 - **3D Concept Learning and Reasoning from Multi-View Images**
 
   Yining Hong, **Chunru Lin**, Yilun Du, Zhenfang Chen, Joshua B. Tenenbaum, Chuang Gan
