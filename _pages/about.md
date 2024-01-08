@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
+<!-- <p align="center">
 <img src="../images/me.png" alt="lcr" width="200" height="200"/>
-</p>
+</p> -->
 
-I am Chunru Lin (林春茹), a first-year Ph.D. student in [UMass Amherts](https://www.umass.edu/), advised by Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). Previously, I completed my B.S. in Computer Science and Technology from [ACM Honor Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest lies in **Computer Vision**, **Robotics** and **Artificial Intelligence**. 
+I am Chunru Lin (林春茹), a first-year Ph.D. student in [UMass Amherts](https://www.umass.edu/), advised by Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). Previously, I completed my B.S. in Computer Science and Technology from [ACM Honor Class](https://acm.sjtu.edu.cn/home), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). My research interest lies in **Robotics**, **Computer Vision** and **Artificial Intelligence**. 
 
 ## Education
 
