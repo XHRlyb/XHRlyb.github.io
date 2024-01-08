@@ -35,6 +35,12 @@ I am Chunru Lin (林春茹), a first-year Ph.D. student in [UMass Amherts](https
 
 ## Publications
 
+- **DiffVL: Scaling Up Soft Body Manipulation using Vision-Language Driven Differentiable Physics**
+
+  Zhiao Huang, Feng Chen, Yewen Pu, **Chunru Lin**, Hao Su, Chuang Gan
+
+  Neurips 2023 [[Paper](https://arxiv.org/abs/2312.06408)]
+  
 - **3D Concept Learning and Reasoning from Multi-View Images**
 
   Yining Hong, **Chunru Lin**, Yilun Du, Zhenfang Chen, Joshua B. Tenenbaum, Chuang Gan
@@ -48,9 +54,3 @@ I am Chunru Lin (林春茹), a first-year Ph.D. student in [UMass Amherts](https
 
   Neurips 2022 [[Paper](https://arxiv.org/abs/2207.06403)] [[Code](https://github.com/evelinehong/3D-Concept-Grounding)]
 
-
-- **DiffVL: Scaling Up Soft Body Manipulation using Vision-Language Driven Differentiable Physics**
-
-  Zhiao Huang, Feng Chen, Yewen Pu, **Chunru Lin**, Hao Su, Chuang Gan
-
-  Neurips 2023 [[Paper](https://arxiv.org/abs/2312.06408)]
